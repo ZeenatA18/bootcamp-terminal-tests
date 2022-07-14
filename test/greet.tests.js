@@ -13,7 +13,7 @@ it("should return 'Hello, Faatimah' when called with 'Faatimah'", function(){
 
 })
 it("should return 'Hello, Lameez' when called with 'Lameez'", function(){
-    assert.equal("Hello, Lameez11", greet("Lameez"))
+    assert.equal("Hello, Lameez", greet("Lameez"))
 
 })
 
